@@ -10,7 +10,7 @@ I'm driven by a never ending passion to learn something new. This could be learn
 
 <br><br>
 
-<img align="right" alt="GIF" src="assets/img/composition-optimized-small.gif"/>
+<img align="right" alt="GIF" src="https://github.com/xSpylon/xSpylon/assets/img/composition-optimized-small.gif"/>
 
 ## About my work
 
